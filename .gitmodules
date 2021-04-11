@@ -1,0 +1,9 @@
+[submodule "recipes/spotify"]
+	path = recipes/spotify
+	url = https://github.com/NickMorozov/franz-recipe-spotify.git
+[submodule "recipes/franz-recipe-gitlab-server"]
+	path = recipes/franz-recipe-gitlab-server
+	url = https://github.com/NickMorozov/franz-recipe-gitlab-server.git
+[submodule "recipes/gitlab-server"]
+	path = recipes/gitlab-server
+	url = https://github.com/NickMorozov/franz-recipe-gitlab-server.git
